@@ -1,4 +1,4 @@
-# Employee applicaiton
+# Employee application
 
 This is a python web applicaiton with Flask.
 
