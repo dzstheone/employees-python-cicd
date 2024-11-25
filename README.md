@@ -11,5 +11,3 @@ additional additional rizsa
 valami
 
 branch merge 2
-
-change 1
