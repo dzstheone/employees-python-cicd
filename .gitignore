@@ -1,0 +1,6 @@
+venv
+employees.egg-info
+__pycache__
+build
+.pytest_cache
+.ruff_cache
