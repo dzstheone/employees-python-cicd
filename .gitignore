@@ -1,6 +1,7 @@
 venv
 employees.egg-info
 __pycache__
-build
 .pytest_cache
 .ruff_cache
+bdist.win-amd64
+lib
