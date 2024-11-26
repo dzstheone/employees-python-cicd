@@ -2,16 +2,10 @@
 
 This is a python web applicaiton with Flask.
 
-additional rizsa
+```sh
+docker run -d -e POSTGRES_DB=employees -e POSTGRES_USER=employees  -e POSTGRES_PASSWORD=employees  -p 5432:5432  --name employees-postgres postgres
+```
 
-additional webrizsa
-
-additional additional rizsa
-
-valami
-
-branch merge 2
-
-dsflégmsdfg
-
-Demo.
+``` sh
+flask --app employees run --debug
+```
